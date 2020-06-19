@@ -1,2 +1,6 @@
 # menuResponsive
-Menu desarrollado con HMTL5, CSS3 y JS. Idea original de Domini Code en Youtube
+El menu cuenta con un unico breakpoint en 842px, pero podrian agregarse más.
+
+El botón "hamburguesa" esta hecho con CSS3, tiene una animación.
+
+Quite el Clip-path ya que no funciona en todos los navegadores.
